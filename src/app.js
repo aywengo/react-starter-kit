@@ -13,7 +13,7 @@ import 'babel/polyfill';
 import React from 'react/addons';
 import FastClick from 'fastclick';
 import emptyFunction from 'react/lib/emptyFunction';
-import App from './components/App';
+import App from './components/App/App';
 import Dispatcher from './core/Dispatcher';
 import AppActions from './actions/AppActions';
 import ActionTypes from './constants/ActionTypes';
