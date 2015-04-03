@@ -62,9 +62,10 @@ class App extends Component {
         <div className="navbar-footer">
           <div className="container">
             <p className="text-muted">
-              <span>© Your Company</span>
+              <span>© aywengo</span>
               <span><a href="/">Home</a></span>
               <span><a href="/privacy">Privacy</a></span>
+              <span><a href="/credits">Credits</a></span>
             </p>
           </div>
         </div>

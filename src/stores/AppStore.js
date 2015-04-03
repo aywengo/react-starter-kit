@@ -22,6 +22,7 @@ var loading = false;
 if (__SERVER__) {
   pages['/'] = {title: 'Home Page'};
   pages['/privacy'] = {title: 'Privacy Policy'};
+  pages['/credits'] = {title: 'Credits'};
 }
 
 var AppStore = assign({}, EventEmitter.prototype, {
